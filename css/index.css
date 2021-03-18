@@ -1,0 +1,101 @@
+
+
+#about{
+ padding-top: 190px;
+ text-align: left;
+ font-family: monospace;
+ font-size: 20px;
+}
+#home{
+  padding-bottom: 50px;
+}
+.warna{
+  background-color: red;
+}
+hr{
+  width: 200px;
+  color: black;
+}
+.img{
+  width: 200px;
+  border: 2px solid whitesmoke;
+  border-radius: 100px;
+  margin: auto;
+  display: block;
+}
+
+#tentang {
+  background-color:whitesmoke;
+  padding-bottom: 30px;
+}
+
+#lorem{
+  margin-top: 30px;
+  margin-bottom: 200px;
+}
+
+.kartu{
+ background-color: rgb(186, 234, 247);
+  margin: auto;
+  display: block;
+  
+}
+
+h5{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+
+}
+
+.fb{
+  width: 40px;
+}
+
+.in{
+  width: 55px;
+  padding-left: 20px;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+ margin: auto;
+}
+
+#prj{
+  margin: auto;
+  display: block;
+  background-color: whitesmoke;
+  padding-bottom: 50px;
+}
+
+#ps{
+  margin: auto;
+  display: block;
+}
+
+#porto{
+ 
+}
+
+.card-img-top{
+  width: 200px;
+}
+
+#footer{
+  padding-bottom: 50px;
+  background-color: rgb(186, 234, 247);
+}
+
+h4{
+  text-align: center;
+}
+
+.copyright{
+  background-color: cadetblue;
+}
